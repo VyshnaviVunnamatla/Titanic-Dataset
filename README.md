@@ -32,18 +32,22 @@ The notebook covers the following steps:
 
    Fine-tuning the best-performing model using techniques like Grid Search or Randomized Search.
    
-Conclusion:
-Final evaluation of the model.
-Summary of key insights and results.
+6. Conclusion:
+   Final evaluation of the model.
+   Summary of key insights and results.
+
 
 GETTING STARTED
 
+
 PREREQUISITES
+
 To run the notebook locally, you will need:
 
 Python 3.x
 Jupyter Notebook or JupyterLab
 Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
+
 
 INSTALLATION
 
@@ -56,6 +60,7 @@ pip install -r requirements.txt
 
 3.Run the Jupyter Notebook:
 jupyter notebook titanic_dataset.ipynb
+
 
 DATASET
 
@@ -76,13 +81,16 @@ The dataset is sourced from Kaggle and contains information about passengers on 
     
 You can download the dataset from Kaggle Titanic Dataset.
 
+
 RESULTS
 
 The notebook explores different machine learning models, with a focus on improving prediction accuracy. The best-performing model achieved an accuracy of XX% on the test set.
 
+
 CONTRIBUTING
 
 Feel free to fork this repository and make contributions. Pull requests are welcome for any improvements or bug fixes.
+
 
 ACKNOWLEDGMENTS
 
